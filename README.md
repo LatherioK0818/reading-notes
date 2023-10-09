@@ -21,4 +21,4 @@ To keep yourself in this mindset, you have to realize three key things:
 3. **Once you succeed, all effort is worth it**.
 
 Feel free to explore my [GitHub portfolio page](https://github.com/latheriok0818) for more of my work!
-![Profile Image](profile_image.jpg)
+![Profile Image]([Louisiana_Image.jpg])
