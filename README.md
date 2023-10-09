@@ -20,3 +20,8 @@ To keep yourself in this mindset, you have to realize three key things:
 2. **Short-term frustration can lead to long term improvement**.
 3. **Once you succeed, all effort is worth it**.
 
+Feel free to explore my [GitHub portfolio page](https://github.com/latheriok0818) for more of my work!
+ <picture>
+  <source media="(min-width: 650px)" srcset="il_1080xN.832375709_5qzk.avif">
+  <img src="il_1080xN.832375709_5qzk.avif">
+</picture> 
