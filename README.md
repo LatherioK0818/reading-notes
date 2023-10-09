@@ -22,6 +22,6 @@ To keep yourself in this mindset, you have to realize three key things:
 
 Feel free to explore my [GitHub portfolio page](https://github.com/latheriok0818) for more of my work!
  <picture>
-  <source media="(min-width: 650px)" srcset="il_1080xN.832375709_5qzk.avif">
-  <img src="il_1080xN.832375709_5qzk.avif">
+  <source media="(min-width: 650px)" srcset="[il_1080xN.832375709_5qzk.avif](https://github.com/LatherioK0818/reading-notes/issues/1#issue-1933802047)https://github.com/LatherioK0818/reading-notes/issues/1#issue-1933802047">
+  <img src="[il_1080xN.832375709_5qzk.avif](https://github.com/LatherioK0818/reading-notes/issues/1#issue-1933802047)https://github.com/LatherioK0818/reading-notes/issues/1#issue-1933802047">
 </picture> 
