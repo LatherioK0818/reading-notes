@@ -1,2 +1,3 @@
-# reading-notes
-My reading Journal for Code Fellows
+# Reading-notes
+
+My Learning  Journal for Code Fellows.
