@@ -1,5 +1,11 @@
+#The Coder's Computer
+[download](https://github.com/LatherioK0818/reading-notes/assets/80198308/2ef9a25a-05e7-434a-9ff1-f2d16809d13c)
+
 ### Important Features of a Text Editor
-**What are four important features to look for in a text editor?**
+
+
+**What are four important features to look!
+ for in a text editor?**
 1. **Syntax Highlighting:** A good text editor should provide syntax highlighting for various programming languages. This feature helps make your code more readable by color-coding different elements like keywords, strings, and comments.
 
 2. **Autocompletion:** Autocompletion suggests code snippets, variable names, and function names as you type. It can save you time and reduce typos by completing code for you based on what you've typed so far.
