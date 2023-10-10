@@ -1,4 +1,5 @@
 #The Coder's Computer
+
 [download](https://github.com/LatherioK0818/reading-notes/assets/80198308/2ef9a25a-05e7-434a-9ff1-f2d16809d13c)
 
 ### Important Features of a Text Editor
