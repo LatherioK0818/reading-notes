@@ -9,7 +9,7 @@
 
 3. [Coders Computer](https://latheriok0818.github.io/reading-notes/coderscomputer).
 
-4. [Upcoming]
+4. [Version Control Tips](https://latheriok0818.github.io/reading-notes/versionControlTip)
 
 5. [Upcoming]
 
