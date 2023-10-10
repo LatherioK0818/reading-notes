@@ -1,6 +1,6 @@
 #The Coder's Computer
 
-[download](https://github.com/LatherioK0818/reading-notes/assets/80198308/2ef9a25a-05e7-434a-9ff1-f2d16809d13c)
+![hand-drawn-flat-design-api-illustration_23-2149365021](https://github.com/LatherioK0818/reading-notes/assets/80198308/5c7bea2a-93c6-4951-bc6d-9302315ebe2c)
 
 ### Important Features of a Text Editor
 
