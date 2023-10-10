@@ -24,5 +24,5 @@ To keep yourself in this mindset, you have to realize three key things:
 
 Feel free to explore my [GitHub portfolio page](https://github.com/latheriok0818) for more of my work!
 
-*[Reading Notes](https://latheriok0818.github.io/reading-notes/)
-*[Markdown Notes](https://latheriok0818.github.io//reading-notes/markdown)
+-[Reading Notes](https://latheriok0818.github.io/reading-notes/)
+-[Markdown Notes](https://latheriok0818.github.io//reading-notes/markdown)
