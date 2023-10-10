@@ -7,12 +7,14 @@ I'm Latherio Kidd, an  Air Force Veteran from Louisiana. This is my reading note
 ## What is a Growth Mindset?
 In my own words, a growth mindset is an adaptable mindset that continues to evolve based on the challenges, obstacles, and effort that is put forth. It can also be seen as the art of perseverance, constantly trying to improve no matter the situation, even when you don't have to.
 
+![Untitled](https://github.com/LatherioK0818/reading-notes/assets/80198308/55b2b388-e49c-42ba-81f3-0e8e3ba98811)
+
 ## Reminders for a Growth Mindset
 Here are three reminders to help me maintain a growth mindset:
 1. **Embrace Challenges**: Instead of avoiding difficult tasks, I will tackle them head-on and view them as opportunities to learn and improve.
 2. **Learn from Failure**: I will not fear failure but see it as a stepping stone toward success. Every setback is a chance to gain valuable insights.
 3. **Seek Feedback**: I will actively seek feedback from others to gain different perspectives and continue my personal and professional development.
-<img src="untitled.jpg" alt="Image" class="center">
+
 ## The Growth Mindset in Action
 The growth mindset is an adaptable mindset that continues to evolve based on the challenges, obstacles, and effort that is put forth. It can also be seen as the art of perseverance, constantly trying to improve no matter the situation, even when you don't have to.
 
