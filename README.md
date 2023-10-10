@@ -27,3 +27,5 @@ Feel free to explore my [GitHub portfolio page](https://github.com/latheriok0818
 -[Reading Notes](https://latheriok0818.github.io/reading-notes/).
 
 -[Markdown Notes](https://latheriok0818.github.io//reading-notes/markdown).
+
+-[Coders Computer](https://latheriok0818.github.io/reading-notes/coderscomputer)
