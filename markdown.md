@@ -1,5 +1,7 @@
-# Markdown Basics
 
+![Alt text](choose-markdown.jpg)
+
+# Markdown Basics
 Markdown is a lightweight markup language that is used for formatting plain text documents. It uses simple and easy-to-read syntax to add formatting elements to text.
 
 ## What is Markdown?
@@ -31,7 +33,8 @@ When making text bold or italicized for emphasis, it is best practice to use the
 
 ## Creating Links
 
-To create a link in Markdown, you can use square brackets `[]` to enclose the link text and parentheses `()` to enclose the URL. 
+To create a link in Markdown, you can use square brackets `[]` to enclose the link text and parentheses `()` to enclose the URL.
+
 ## Creating Lists
 
 You can create an unordered (bulleted) list in Markdown using one of the following symbols: `*`, `-`, or `+`. For example:
@@ -39,4 +42,3 @@ You can create an unordered (bulleted) list in Markdown using one of the followi
 - Item 1
 - Item 2
 - Item 3
-
