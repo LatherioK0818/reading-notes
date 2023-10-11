@@ -1,11 +1,14 @@
 # Welcome to the  Home
 
+![
+](Home.jpg)
+
 ## Introduction
 
 I'm Latherio Kidd, an Air Force veteran with a comprehensive background in Information Technology, including IT Support,
 data analytics, help desk operations, and cybersecurity. I'm originally from Louisiana. I am one of the few people to have wrestled an alligator and lived to tell my tale. This is my reading notes page, where I explore various topics of my journey to become a coding master and share my thoughts. Also, Go Saints!!
 
-![Louisiana_Image](https://github.com/LatherioK0818/reading-notes/assets/80198308/b0de4798-6ebb-4b64-80a3-f92b27dcf924) 
+![Louisiana_Image](https://github.com/LatherioK0818/reading-notes/assets/80198308/b0de4798-6ebb-4b64-80a3-f92b27dcf924)
 
 ## Description
 
