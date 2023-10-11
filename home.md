@@ -26,7 +26,7 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 4. [Version Control](https://latheriok0818.github.io/reading-notes/versionControlTip)
 
-5. [Upcoming]
+5. [HTML Tips](LatherioK0818.github.io/reading-notes/html)
 
 6. [Upcoming]
 
