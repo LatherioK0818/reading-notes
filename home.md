@@ -28,7 +28,7 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 5. [HTML Tips](LatherioK0818.github.io/reading-notes/html)
 
-6. [Upcoming]
+6. [CSS Tips](LatherioK0818.github.io/reading-notes/css)
 
 7. [Upcoming]
 
