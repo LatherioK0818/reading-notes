@@ -6,7 +6,7 @@ HTML (Hypertext Markup Language) is like the building blocks for websites. It he
 
 Think of an HTML element as a sandwich:
 
--**Header (Opening Tag)**: Imagine the opening tag as the beginning of a story. It sets the stage for what's coming. In HTML, the opening tag tells the browser that something special is about to happen. For example, <h1> is like saying, "Hey, here comes the most important title!"
+-**Header (Opening Tag)**: Imagine the opening tag as the beginning of a story. It sets the stage for what's coming. In HTML, the opening tag tells the browser that something special is about to happen. For example, *h1* is like saying, "Hey, here comes the most important title!"
 
 -**Body (Content)**: The body is where the main action takes place. In the case of HTML, it's where you put the text, images, and all the cool stuff that you want to show on your webpage. This is the heart of your sandwich – the delicious fillings that make it tasty.
 
@@ -19,6 +19,5 @@ When you add extra info to an element, it's like giving it superpowers. We call 
 ## Semantic Elements
 
 Think of "semantic" as a fancy word for "meaningful." In HTML, a semantic element is like a label that tells us what a part of a webpage is for. Instead of just using generic tags, like `<div>` for everything, we have special tags like `<header>`, `<footer>`, and others. They help us understand the purpose of different parts of a webpage, and they're good for making websites accessible and easier to find on search engines.
-
 
 [HTML Tips](LatherioK0818.github.io/reading-notes/html)
