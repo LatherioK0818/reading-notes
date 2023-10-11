@@ -22,9 +22,11 @@ They are :
 -*Null*:the intentional absence of any object or value. It's often used to indicate that a variable or object has no value or hasn't been assigned a value yet. For instance, if a variable result is set to null, it means it currently has no meaningful value.
 
 **What does it mean to declare a variable?**
+
 When you declare a variable you are using a statement to specify the variable name and its type. This tells the compiler about it's existence and where it is located.
 
 **What is an “assignment” operator, and what does it do?**
+
 An assignment operator is an expression that assigns a value to the variable. Some examples may include, but are not limited to `=`, `+=`,`-=`,`*=`
 
  *Here's a link to Additonal Examples:*
