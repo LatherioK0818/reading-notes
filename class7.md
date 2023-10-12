@@ -20,4 +20,4 @@ Calling a function performs the specified  action in the indicated parameters.
 
 #### What are the parenthesis () for when you define a function?
 
-The parenthesis are to list the parameters of the function. This is where the expressions live.
+The parenthesis is to list the parameters of the function. This is where the expressions live.
