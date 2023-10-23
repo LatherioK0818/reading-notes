@@ -16,7 +16,7 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 ### Table of Contents
 
-#### Code 102 Reading Notes
+#### Code 102- Intro to Software Development Reading Notes
 
 1. [Reading Notes](https://latheriok0818.github.io/reading-notes/).
 
@@ -28,15 +28,13 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 5. [HTML Tips](LatherioK0818.github.io/reading-notes/html)
 
-6. [CSS Tips](LatherioK0818.github.io/reading-notes/css)
+6. [CSS Tips:](LatherioK0818.github.io/reading-notes/css)
 
-7. [Upcoming]
+7. [Upcoming]()
 
-8. [Upcoming]
+8. [Operators and Loops](LatherioK0818.github.io/reading-notes/class8notes)
 
-#### Code 201 Reading Notes
-
--[Upcoming]
+#### Code 201- Foundations of Software Development Reading Notes
 
 -[Upcoming]
 
@@ -67,3 +65,25 @@ This site is  a home page created by a beginner to provide visitors with a navig
 -[Upcoming]
 
 -[Upcoming]
+
+-[Upcoming]
+
+## Code 301 - Intermediate Software Development
+
+ -[Upcoming]
+
+-[Upcoming]
+
+-[Upcoming]
+
+-[Upcoming]
+
+-[Upcoming]
+
+-[Upcoming]
+
+-[Upcoming]
+
+-[Upcoming]
+
+## Code 401 - Advanced Software Development
