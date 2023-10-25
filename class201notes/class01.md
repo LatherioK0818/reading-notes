@@ -37,7 +37,7 @@ Variables are the container that store your values. They are important because y
 
 **What is an HTML attribute?**
 
-HTML attribute is a piece of markup language that can be used to adujst the behavior of an HTML element. Attrivutes contain etxra information aboutvthe elemnet that won't appear in the content. The requirements for an attribute are :
+HTML attribute is a piece of markup language that can be used to adjustst the behavior of an HTML element. Attrivutes contain etxra information about the element that won't appear in the content. The requirements for an attribute are :
 
 1. `A space between it and the element name.`
 

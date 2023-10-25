@@ -36,9 +36,9 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 #### Code 201- Foundations of Software Development Reading Notes
 
--[Upcoming]
+-[Class 1](https://latheriok0818.github.io/reading-notes/class201notes/class01)
 
--[Upcoming]
+-[Class 2]()
 
 -[Upcoming]
 
