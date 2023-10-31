@@ -9,6 +9,8 @@ Domain modeling is essential for several reasons:
 - **Structuring Code:** It helps in structuring code by defining the relationships and entities in the problem domain.
 - **Reducing Ambiguity:** It reduces ambiguity, leading to more accurate and efficient software development.
 
+[Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
+
 # HTML Table Basics
 
 ## Tables for Page Layouts
@@ -27,6 +29,8 @@ Three different semantic HTML elements used in an HTML `<table>` are:
 - `<tbody>`: It represents the main content of the table and contains the rows of data.
 - `<tfoot>`: This element is used for the footer section of a table, typically containing summaries or totals.
 
+[HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+
 # Introducing Constructors
 
 ## What is a Constructor and Its Advantages
@@ -38,12 +42,16 @@ A constructor in programming is a special method or function that is used for in
 - **Code Reusability:** They can be used to create multiple objects with the same properties and methods.
 - **Customization:** Constructors allow you to set initial state or values based on parameters.
 
+[Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
+
 ## "this" in Object Literal vs. Constructor
 
 - In an object literal, "this" refers to the object itself. For example, if you have an object like `{ name: "John" }`, "this" inside a method of this object would refer to the object itself, which is `{ name: "John" }`.
 - In a constructor, "this" refers to the instance of the object being created. When you create a new object using a constructor, "this" inside the constructor refers to that specific instance, allowing you to set properties for that instance.
 
 ## Object Prototypes Using A Constructor
+
+[Object Prototypes](https://ui.dev/beginners-guide-to-javascript-prototype)
 
 ## Prototypes and Inheritance Analogy
 
@@ -57,4 +65,4 @@ A constructor in programming is a special method or function that is used for in
 
 ## Things I want to know more about
 
-I don't have anythingthis moment.
+I don't have anything this moment.
