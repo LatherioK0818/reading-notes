@@ -38,21 +38,21 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 -[Class 1](https://latheriok0818.github.io/reading-notes/class201notes/class01)
 
--[Class 2]()
+-[Class 2](https://latheriok0818.github.io/reading-notes/class201notes/class02)
 
--[Upcoming]
+-[Class 3](https://latheriok0818.github.io/reading-notes/class201notes/class03)
 
--[Upcoming]
+-[Class 4](https://latheriok0818.github.io/reading-notes/class201notes/class04)
 
--[Upcoming]
+-[Class 5](https://latheriok0818.github.io/reading-notes/class201notes/class05)
 
--[Upcoming]
+-[Class 6](https://latheriok0818.github.io/reading-notes/class201notes/class06)
 
--[Upcoming]
+-[Class 7](https://latheriok0818.github.io/reading-notes/class201notes/class07)
 
--[Upcoming]
+-[Class 8](https://latheriok0818.github.io/reading-notes/class201notes/class08)
 
--[Upcoming]
+-[Class 9](https://latheriok0818.github.io/reading-notes/class201notes/class09)
 
 -[Upcoming]
 

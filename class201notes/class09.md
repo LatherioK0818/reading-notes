@@ -2,6 +2,8 @@
 
 ## HTML Forms
 
+[HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+
 ### Why are forms so important in web development?
 
 Forms are crucial in web development as they enable users to interact with websites by providing input, such as text, selections, or buttons. They serve various purposes, including user registration, login, search, and more.
@@ -27,6 +29,8 @@ Five important form elements are:
 5. Submit Button: To send the form data to the server.
 
 ## Learning JavaScript and Events
+
+[Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 ### How would you describe events to a non-technical friend?
 
