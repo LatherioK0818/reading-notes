@@ -54,9 +54,9 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 -[Class 9](https://latheriok0818.github.io/reading-notes/class201notes/class09)
 
--[Upcoming]
+-[Class 10](https://latheriok0818.github.io/reading-notes/class201notes/class10)
 
--[Upcoming]
+-[Class 11](https://latheriok0818.github.io/reading-notes/class201notes/class11)
 
 -[Upcoming]
 
