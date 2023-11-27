@@ -58,15 +58,13 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 -[Class 11](https://latheriok0818.github.io/reading-notes/class201notes/class11)
 
--[Upcoming]
+-[Class 12](https://latheriok0818.github.io/reading-notes/class201notes/class12)
 
--[Upcoming]
+-[Class 13](https://latheriok0818.github.io/reading-notes/class201notes/class13)
 
--[Upcoming]
+-[Class 14](https://latheriok0818.github.io/reading-notes/class201notes/class14)
 
--[Upcoming]
-
--[Upcoming]
+-[Class 14b](https://latheriok0818.github.io/reading-notes/class201notes/class14b)
 
 ## Code 301 - Intermediate Software Development
 
