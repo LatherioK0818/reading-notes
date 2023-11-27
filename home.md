@@ -68,7 +68,7 @@ This site is  a home page created by a beginner to provide visitors with a navig
 
 ## Code 301 - Intermediate Software Development
 
- -[Upcoming]
+ -[Class 01](https://latheriok0818.github.io/reading-notes/class301notes/class01)
 
 -[Upcoming]
 
