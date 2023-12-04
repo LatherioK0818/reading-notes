@@ -58,11 +58,11 @@
 
 -[Class 03](https://latheriok0818.github.io/reading-notes/class301notes/class03)
 
--[Class 04](https://latheriok0818.github.io/reading-notes/class301notes/class04))
+-[Class 04](https://latheriok0818.github.io/reading-notes/class301notes/class04)
 
 -[Class 05](https://latheriok0818.github.io/reading-notes/class301notes/class05)
 
--[Upcoming]
+-[Class 06](https://latheriok0818.github.io/reading-notes/class301notes/class06)
 
 -[Upcoming]
 
