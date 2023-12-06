@@ -1,6 +1,7 @@
 # Node.js Reading Questions
 
 ## An Introduction to Node.js on sitepoint.com
+
 1. **What is Node.js?**
    Node.js is an open-source JavaScript runtime environment that executes JavaScript code outside of a web browser.
 
