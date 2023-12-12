@@ -52,7 +52,8 @@
 
 ## Code 301 - Intermediate Software Development
 
- -[Class 01](https://latheriok0818.github.io/reading-notes/class301notes/class01)
+ 
+-[Class 01](https://latheriok0818.github.io/reading-notes/class301notes/class01)
 
 -[Class 02](https://latheriok0818.github.io/reading-notes/class301notes/class02)
 
@@ -64,8 +65,22 @@
 
 -[Class 06](https://latheriok0818.github.io/reading-notes/class301notes/class06)
 
--[Upcoming]
+- [Class 07](https://latheriok0818.github.io/reading-notes/class301notes/class07)
 
--[Upcoming]
+- [Class 08](https://latheriok0818.github.io/reading-notes/class301notes/class08)
+
+- [Class 09](https://latheriok0818.github.io/reading-notes/class301notes/class09)
+
+- [Class 10](https://latheriok0818.github.io/reading-notes/class301notes/class10)
+
+- [Class 11](https://latheriok0818.github.io/reading-notes/class301notes/class11) 
+
+- [Class 12](https://latheriok0818.github.io/reading-notes/class301notes/class12)
+
+- [Class 13](https://latheriok0818.github.io/reading-notes/class301notes/class13)
+
+- [Class 14](https://latheriok0818.github.io/reading-notes/class301notes/class14)
+
+- [Class 15](https://latheriok0818.github.io/reading-notes/class301notes/class15)
 
 ## Code 401 - Advanced Software Development
