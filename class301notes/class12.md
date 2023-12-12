@@ -90,4 +90,3 @@ Understanding status codes and building a REST API with Node.js, Express, and Mo
 - Deeper understanding of handling errors in a REST API.
 - Investigating best practices for securing MongoDB connections in a production environment.
 
-*
