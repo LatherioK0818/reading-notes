@@ -39,3 +39,4 @@ Feel free to explore my [GitHub portfolio page](https://github.com/latheriok0818
 -[Markdown Notes](https://latheriok0818.github.io//reading-notes/markdown).
 
 -[Coders Computer](https://latheriok0818.github.io/reading-notes/coderscomputer)
+-[Table Of Contents](/home/kidd/reading-notes/tableofContents.md)
