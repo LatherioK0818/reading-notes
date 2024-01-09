@@ -86,6 +86,12 @@
 
 ## Code 401 - Advanced Software Development
 
+### Prep Work 
+
+-[Command Line](class401notes/401PrepWork/CommandLine.md)
+-[Growth Mindset](class401notes/401PrepWork/growthMind.md)
+
+### Class Readings
 
 - [Class 01 Notes](/class401notes/class01.md)
 - [Class 02 Notes](/class401notes/class02.md)
