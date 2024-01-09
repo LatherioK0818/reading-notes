@@ -1,9 +1,5 @@
 ## Engineering Readings Notes
 
-### Introduction
-
-The transition to the 401 course represents a significant step in your programming journey, emphasizing not just technical skills but also the mindset and approach necessary for a successful career in software engineering. The provided readings and videos are designed to inspire and prepare you for the challenges ahead. They focus on developing the right attitude, problem-solving skills, and the resilience required to tackle complex issues in software development.
-
 ### Discussion Questions
 
 1. **Unique Contribution to a Career:**
