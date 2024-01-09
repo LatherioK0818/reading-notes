@@ -21,6 +21,7 @@ Data Structures and Algorithms (DSA) are the core of computer science and essent
    - **Iterative Solutions:** In some cases, consider using an iterative approach as an alternative to recursion.
 
 ## Things I Want to Know More About
+
 1. Real-world examples where specific data structures significantly improved the efficiency of a software solution.
 2. Advanced techniques in optimizing recursive algorithms for high-performance applications.
 3. Comparative analysis of different data structures in specific scenarios.
