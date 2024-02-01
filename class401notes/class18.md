@@ -29,4 +29,3 @@ Encryption is like locking a treasure chest with a unique key, transforming valu
 - The mathematical foundations of asymmetric encryption algorithms like RSA.
 - The potential vulnerabilities of PRNGs in cryptographic applications and how to mitigate them.
 - The impact of quantum computing on current encryption methods and the future of secure communication.
-
