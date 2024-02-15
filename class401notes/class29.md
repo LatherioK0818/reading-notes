@@ -39,5 +39,3 @@ As you explore Django and DjangoX, you might find yourself curious about:
 - How to customize DjangoX further to fit your specific project needs, like adding a chat feature.
 - The best way to keep your Django project updated, especially when there are new releases of Django or DjangoX.
 - How to ensure your custom user model doesn't slow down your website as it grows bigger and more users sign up.
-
-Starting with these basics, you can gradually expand your knowledge and tackle more complex features as you become 
