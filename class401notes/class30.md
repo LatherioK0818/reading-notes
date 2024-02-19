@@ -1,4 +1,3 @@
-
 # **Hash Table Cheat Sheet for Beginners**
 
 ## **What is a Hash Table?**
@@ -29,6 +28,7 @@
 - **Collision:** Occurs when two keys hash to the same index.
 
 #### **Walkthrough Example:**
+
 1. **Storing a Value:**
    - Key: "username"
    - Value: "user1234"
@@ -41,20 +41,24 @@
    - The value "user1234" is found at index 4 and returned.
 
 #### **Vocabulary:**
+
 - **Load Factor:** Ratio of the number of stored elements to the table size. Affects performance.
 - **Rehashing:** Process of resizing the hash table and rehashing all existing keys.
 
 #### **Implementation Tips:**
+
 - Choose a good hash function to minimize collisions.
 - Plan for collisions with a collision resolution strategy.
 - Consider dynamic resizing to maintain an efficient load factor.
 
 #### **Quiz:**
+
 1. What is the purpose of a hash function in a hash table?
 2. Explain one method to handle collisions in hash tables.
 3. What does it mean to rehash a hash table?
 
 #### **Practice:**
+
 - Implement a simple hash table in your favorite programming language.
 - Experiment with different hash functions and measure the performance impact.
 - Try adding, deleting, and retrieving various key-value pairs to understand the process fully.
