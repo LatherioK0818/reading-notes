@@ -1,0 +1,21 @@
+The ACM Code of Ethics and Professional Conduct serves as a comprehensive framework for guiding ethical behavior in the computing profession. It outlines fundamental principles, professional responsibilities, leadership principles, and compliance guidelines. Let's review one article from each section and discuss their relation to ethics in technology:
+
+**Article from "General Ethical Principles" (1.1 Contribute to society and to human well-being)**:
+
+This principle emphasizes the responsibility of computing professionals to contribute positively to society and human well-being. It stresses the importance of considering the broader impacts of technology on individuals and communities. The article highlights the obligation to use computing skills for the benefit of society, including promoting human rights, protecting privacy, and minimizing negative consequences such as threats to health and safety.
+
+**Relation to Ethics in Technology**: This article is highly relevant to ethics in technology as it underscores the ethical imperative for computing professionals to prioritize societal welfare and consider the ethical implications of their work. It emphasizes the need for technology to align with fundamental human rights, promote diversity, and address social needs. In today's increasingly interconnected world, where technology profoundly influences various aspects of society, this principle is crucial for ensuring that technological advancements serve the common good rather than exacerbate social inequalities or harm individuals.
+
+**Agree or Disagree**: It is agreeable with the article as it articulates essential ethical considerations that computing professionals should adhere to, such as promoting social good, respecting human rights, and minimizing harm. These principles are fundamental to fostering an ethical and responsible approach to technology development and deployment.
+
+**What Stuck Out**: The emphasis on the obligation to promote environmental sustainability is notable, reflecting the growing awareness of the environmental impact of technology and the need for sustainable practices in computing.
+
+**Article from "Professional Responsibilities" (2.9 Design and implement systems that are robustly and usably secure)**:
+
+This principle highlights the responsibility of computing professionals to prioritize security in the design and implementation of systems. It emphasizes the importance of robust security measures to protect against malicious activities, accidental misuse, and data breaches. The article underscores the ethical obligation to ensure the integrity, confidentiality, and availability of computing resources, as well as the need to notify affected parties promptly in the event of a security breach.
+
+**Relation to Ethics in Technology**: Security is a critical aspect of ethics in technology, as breaches can lead to significant harm, including privacy violations, financial losses, and threats to safety. This principle reflects the ethical imperative for computing professionals to prioritize security considerations throughout the development lifecycle, from design to deployment. In today's digital age, where cyber threats are prevalent and technology pervades every aspect of life, ensuring robust and secure systems is essential for safeguarding individuals, organizations, and society as a whole.
+
+**Agree or Disagree**: It is agreeable with the article as it emphasizes the ethical responsibility of computing professionals to prioritize security and protect against potential harm. Given the increasing frequency and severity of cyber threats, ensuring robust security measures is imperative for upholding ethical standards in technology.
+
+**What Stuck Out**: The emphasis on designing security features that are intuitive and easy to use is noteworthy, as it underscores the importance of usability in promoting effective security practices among users. This highlights the ethical consideration of balancing security requirements with user experience to ensure that security measures are practical and user-friendly.
